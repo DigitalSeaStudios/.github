@@ -1,6 +1,7 @@
 <p align="center">
   <img width="300" height="300" src="https://github.com/DigitalSeaStudios/digitalseastudios.github.io/blob/master/imgs/DSS_Logo.png?raw=true">
 </p>
+
 ---
 
 ## About Us
